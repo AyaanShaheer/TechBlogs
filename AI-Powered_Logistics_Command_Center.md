@@ -331,4 +331,4 @@ Security was designed in, not bolted on:
 
 ***
 
-*If you're building something similar or want to discuss the architecture, find me on [LinkedIn]((https://www.linkedin.com/in/ayaan-shaheer-mlops/)) or [GitHub]((https://github.com/AyaanShaheer)).*
+*If you're building something similar or want to discuss the architecture, find me on [LinkedIn]([url](https://www.linkedin.com/in/ayaan-shaheer-mlops/)) & [Github]([url](https://github.com/AyaanShaheer))
